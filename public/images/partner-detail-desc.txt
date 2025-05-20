@@ -1,0 +1,12 @@
+# Partner Detail Screenshot
+
+The partner detail page includes:
+- Partner company name as the page header
+- Partnership level and status badges
+- Contact information card with email, phone, and address
+- Partnership details showing join date and revenue
+- Notes section with additional information
+- Action buttons for Edit and Delete operations
+- Back button to return to the partner list
+
+This detailed view provides all relevant information about a specific partner.
