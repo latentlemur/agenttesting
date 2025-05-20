@@ -1,0 +1,40 @@
+.partner-card {
+  transition: all 0.3s ease;
+}
+
+.partner-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.partner-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.partner-card-header h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.partner-badges {
+  display: flex;
+  gap: 8px;
+}
+
+.partner-card-body {
+  margin-bottom: 15px;
+}
+
+.partner-card-body p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.partner-card-footer {
+  display: flex;
+  justify-content: flex-end;
+}

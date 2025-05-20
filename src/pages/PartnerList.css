@@ -1,0 +1,29 @@
+.partner-list-page {
+  padding-bottom: 20px;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.partner-count {
+  margin-bottom: 15px;
+  color: #666;
+  font-size: 14px;
+}
+
+.partners-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.no-results {
+  grid-column: 1 / -1;
+  padding: 30px;
+  text-align: center;
+  color: #666;
+}

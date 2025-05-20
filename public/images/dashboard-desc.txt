@@ -1,0 +1,8 @@
+# Dashboard Screenshot
+
+This dashboard view shows:
+- Summary statistics (total partners, active partners, revenue)
+- Recent partner cards showing the latest 3 partners that joined
+- Quick action buttons for common tasks
+
+The dashboard provides a clean, professional overview of the CRM system's key metrics.

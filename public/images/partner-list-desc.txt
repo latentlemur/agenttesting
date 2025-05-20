@@ -1,0 +1,10 @@
+# Partner List Screenshot
+
+The partner listing page displays:
+- A search and filtering interface at the top 
+- Count of partners matching the current filters
+- Grid of partner cards with key information
+- Each card shows partnership level, status, and contact info
+- "Add New Partner" button in the header
+
+This view allows users to quickly find and manage their partners.
