@@ -1,0 +1,82 @@
+.partner-detail-page {
+  padding-bottom: 30px;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.header-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.partner-badges {
+  display: flex;
+  gap: 10px;
+}
+
+.partner-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.info-card h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #333;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.info-item {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.info-item label {
+  flex: 0 0 140px;
+  font-weight: 500;
+  color: #555;
+}
+
+.info-item span {
+  flex: 1;
+}
+
+.notes-section {
+  margin-bottom: 20px;
+}
+
+.notes-section h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #333;
+}
+
+.notes-section p {
+  line-height: 1.6;
+}
+
+.page-footer {
+  margin-top: 30px;
+}
+
+.not-found {
+  text-align: center;
+  padding: 40px;
+}
+
+.not-found h2 {
+  margin-bottom: 10px;
+}
+
+.not-found p {
+  margin-bottom: 20px;
+  color: #666;
+}

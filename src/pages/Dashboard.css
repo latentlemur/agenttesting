@@ -1,0 +1,41 @@
+.dashboard-page {
+  padding-bottom: 20px;
+}
+
+.page-title {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.dashboard-section {
+  margin-bottom: 30px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.section-header h2 {
+  font-size: 20px;
+  color: #333;
+  margin: 0;
+}
+
+.recent-partners {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.quick-actions {
+  padding: 20px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
